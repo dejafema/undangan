@@ -12,9 +12,10 @@
         @apply text-4xl text-center text-black;
     }
     h2{
-        @apply text-2xl font-semibold text-black
+        font-family: 'Dancing Script', cursive;
+        @apply text-3xl font-semibold text-black mb-4
     }
     h3{
-@apply text-lg font-semibold
+        @apply text-lg font-semibold
     }
 }
