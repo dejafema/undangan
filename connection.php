@@ -1,7 +1,10 @@
 <?php
+$config['index_page'] = "index.php";
+
 // $servername = "localhost";
 // $username = "root";
 // $password = "";
+// $dbname = "wedding";
 $servername = "localhost";
 $username = "u669048266_wedding";
 $password = "Password123!";
