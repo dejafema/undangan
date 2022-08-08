@@ -5,8 +5,10 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
+    <meta name="description" content="Dengan memohon rahmat dan ridho Allah SWT, kami mengundang Bapak/Ibu/Saudara/i untuk menghadiri pernikahan Putra-Putri kami yang insya Allah akan dilaksanakan pada 10 September 2022">
+    <title>Nur Diantoro & Lidya Rahma</title>
 
+    <link rel="icon" type="image/x-icon" href="assets/icon-01.png">
     <link rel="stylesheet" href="assets/output.css">
     <link rel="stylesheet" href="assets/style.css">
     <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -93,7 +95,7 @@
             </div>
         </div>
 
-        <div class="mb-20 relative">
+        <div class="pb-10 relative">
             <div class="mx-4">
                 <h2 class="text-center">Berikan Ucapan</h2>
                 <form method="post" action="send-ucapan.php">
@@ -108,7 +110,7 @@
                     <button type="submit" name="submit" class="px-12 py-2 rounded bg-sky-600 text-white mx-auto block">Kirim</button>
                 </form>
             </div>
-            <!-- <div class="bg-gradient-to-r from-cyan-500 to-blue-500 w-full h-16 absolute bottom-1/2 inline-block z-10"></div> -->
+            <!-- <div class="bg-gradient-to-t from-slate-900 to-white w-full h-32 absolute bottom-0 inline-block -z-10"></div> -->
         </div>
 
         <div class="bg-slate-200 py-10">
