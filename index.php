@@ -49,14 +49,14 @@
                 <img src="assets/bunga-03.png" class="h-40 absolute top-1/2 -translate-y-1/2 -left-20">
                 <h3 class=" text-red-600">Akad Nikah</h3>
                 <p>Sabtu, 10 September 2022</p>
-                <p class="text-emerald-600 font-bold">10:00 WIB</p>
+                <p class="text-emerald-600 font-bold">09:00 WIB</p>
                 <p>Jl jati petamburan 1 Gg. IV no.23</p>
             </div>
             <div class="border rounded mx-4 py-12 shadow-md relative overflow-hidden" data-aos="fade-left" data-aos-duration="1200">
                 <img src="assets/bunga-05.png" class="h-40 absolute top-1/2 -translate-y-1/2 -right-16">
                 <h3 class="text-red-600">Resepsi</h3>
                 <p>Sabtu, 10 September 2022</p>
-                <p class="text-emerald-600 font-bold">12:00 - 15:00 WIB</p>
+                <p class="text-emerald-600 font-bold">11:00 - 14:00 WIB</p>
                 <p>Jl jati petamburan 1 Gg. IV</p>
             </div>
         </div>
