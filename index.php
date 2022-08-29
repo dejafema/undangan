@@ -25,7 +25,7 @@
 
     <!-- Open Graph / Facebook -->
     <meta property="og:type" content="website">
-    <meta property="og:url" content="https://metatags.io/">
+    <meta property="og:url" content="https://wedding.desainrakyat.com/">
     <meta property="og:title" content="Nur Diantoro & Lidya Rahma">
     <meta property="og:description"
         content="Dengan memohon rahmat dan ridho Allah SWT, kami mengundang Bapak/Ibu/Saudara/i untuk menghadiri pernikahan kami yang insya Allah akan dilaksanakan pada 10 September 2022">
@@ -34,7 +34,7 @@
 
     <!-- Twitter -->
     <meta property="twitter:card" content="summary_large_image">
-    <meta property="twitter:url" content="https://metatags.io/">
+    <meta property="twitter:url" content="https://wedding.desainrakyat.com/">
     <meta property="twitter:title" content="Nur Diantoro & Lidya Rahma">
     <meta property="twitter:description"
         content="Dengan memohon rahmat dan ridho Allah SWT, kami mengundang Bapak/Ibu/Saudara/i untuk menghadiri pernikahan kami yang insya Allah akan dilaksanakan pada 10 September 2022">
