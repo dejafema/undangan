@@ -50,29 +50,19 @@
 
 <body>
 
-    <audio id="myAudio" controls autoplay loop>
-        <source src="assets/music.mp3" type="audio/ogg">
-        <source src="assets/music.mp3" type="audio/mpeg">
+    <audio id="myAudio" autoplay loop>
+        <source src="assets/music.mp3" type="audio/mp3">
         Your browser does not support the audio element.
     </audio>
-    <p>
-        <button onclick="playAudio()">Play Audio</button>
-        <button onclick="pauseAudio()">Pause Audio</button>
-    </p>
 
-    <script>
-        document.getElementById("myAudio").autoplay;
+    <div id="cover" class="fixed w-screen h-screen z-50 bg-cover bg-center"
+        style="background-image: url('assets/foto-deja-3.jpeg');">
+        <button onclick="playAudio()"
+            class="rounded-full bg-white text-gray-800 shadow-lg px-6 py-4 absolute bottom-20 left-0 right-0 mx-auto w-min">
+            <span class="whitespace-nowrap font-semibold"> Buka Undangan </span>
 
-        function playAudio() {
-            var audio = document.getElementById("myAudio");
-            audio.play();
-        }
-
-        function pauseAudio() {
-            var audio = document.getElementById("myAudio");
-            audio.pause();
-        }
-    </script>
+        </button>
+    </div>
 
     <div class="overflow-hidden max-w-[576px]">
         <div class="relative mb-4">
@@ -149,6 +139,21 @@
 
     <script>
         AOS.init();
+
+        document.getElementById("myAudio").autoplay;
+
+        function playAudio() {
+            var elem = document.getElementById("cover");
+            elem.style.display = "none";
+
+            var audio = document.getElementById("myAudio");
+            audio.play();
+        }
+
+        function pauseAudio() {
+            var audio = document.getElementById("myAudio");
+            audio.pause();
+        }
     </script>
 </body>
 
