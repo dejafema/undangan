@@ -2,20 +2,23 @@
 @tailwind components;
 @tailwind utilities;
 
-@layer base{
+@layer base {
     html {
         font-family: 'Open Sans', sans-serif;
-        color:#4b6577;
+        color: #4b6577;
     }
-    h1{
-        font-family: "Roboto", sans-serif;
+
+    h1 {
+        font-family: "Charm", cursive;
         @apply text-4xl text-center text-black;
     }
-    h2{
+
+    h2 {
         font-family: 'Dancing Script', cursive;
         @apply text-3xl font-semibold text-black mb-4
     }
-    h3{
+
+    h3 {
         @apply text-lg font-semibold
     }
 }
