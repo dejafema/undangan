@@ -8,7 +8,7 @@
         color:#4b6577;
     }
     h1{
-        font-family: 'Great Vibes', cursive;
+        font-family: "Roboto", sans-serif;
         @apply text-4xl text-center text-black;
     }
     h2{
